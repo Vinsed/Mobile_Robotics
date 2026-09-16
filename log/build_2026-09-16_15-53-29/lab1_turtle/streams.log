@@ -1,0 +1,33 @@
+[1.008s] Invoking command in '/root/mobile_robotics_ws/build/lab1_turtle': PYTHONPATH=/root/mobile_robotics_ws/build/lab1_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/mobile_robotics_ws/install/lab1_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /root/mobile_robotics_ws/build/lab1_turtle/build
+[1.410s] running develop
+[1.616s] Removing /root/mobile_robotics_ws/install/lab1_turtle/lib/python3.10/site-packages/lab1-turtle.egg-link (link to .)
+[1.685s] Invoked command in '/root/mobile_robotics_ws/build/lab1_turtle' returned '0': PYTHONPATH=/root/mobile_robotics_ws/build/lab1_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/mobile_robotics_ws/install/lab1_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /root/mobile_robotics_ws/build/lab1_turtle/build
+[1.687s] Invoking command in '/root/mobile_robotics_ws/src/lab1_turtle': PYTHONPATH=/root/mobile_robotics_ws/build/lab1_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/mobile_robotics_ws/install/lab1_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab1_turtle build --build-base /root/mobile_robotics_ws/build/lab1_turtle/build install --record /root/mobile_robotics_ws/build/lab1_turtle/install.log --install-scripts $base/lib/lab1_turtle --single-version-externally-managed install_data --force
+[2.085s] running egg_info
+[2.087s] writing ../../build/lab1_turtle/lab1_turtle.egg-info/PKG-INFO
+[2.087s] writing dependency_links to ../../build/lab1_turtle/lab1_turtle.egg-info/dependency_links.txt
+[2.087s] writing entry points to ../../build/lab1_turtle/lab1_turtle.egg-info/entry_points.txt
+[2.087s] writing requirements to ../../build/lab1_turtle/lab1_turtle.egg-info/requires.txt
+[2.088s] writing top-level names to ../../build/lab1_turtle/lab1_turtle.egg-info/top_level.txt
+[2.091s] reading manifest file '../../build/lab1_turtle/lab1_turtle.egg-info/SOURCES.txt'
+[2.092s] writing manifest file '../../build/lab1_turtle/lab1_turtle.egg-info/SOURCES.txt'
+[2.093s] running build
+[2.093s] running build_py
+[2.093s] creating /root/mobile_robotics_ws/build/lab1_turtle/build
+[2.093s] creating /root/mobile_robotics_ws/build/lab1_turtle/build/lib
+[2.093s] creating /root/mobile_robotics_ws/build/lab1_turtle/build/lib/lab1_turtle
+[2.093s] copying lab1_turtle/__init__.py -> /root/mobile_robotics_ws/build/lab1_turtle/build/lib/lab1_turtle
+[2.094s] running install
+[2.094s] running install_lib
+[2.095s] creating /root/mobile_robotics_ws/install/lab1_turtle/lib/python3.10/site-packages/lab1_turtle
+[2.095s] copying /root/mobile_robotics_ws/build/lab1_turtle/build/lib/lab1_turtle/__init__.py -> /root/mobile_robotics_ws/install/lab1_turtle/lib/python3.10/site-packages/lab1_turtle
+[2.096s] byte-compiling /root/mobile_robotics_ws/install/lab1_turtle/lib/python3.10/site-packages/lab1_turtle/__init__.py to __init__.cpython-310.pyc
+[2.097s] running install_data
+[2.097s] copying resource/lab1_turtle -> /root/mobile_robotics_ws/install/lab1_turtle/share/ament_index/resource_index/packages
+[2.097s] copying package.xml -> /root/mobile_robotics_ws/install/lab1_turtle/share/lab1_turtle
+[2.098s] running install_egg_info
+[2.101s] Copying ../../build/lab1_turtle/lab1_turtle.egg-info to /root/mobile_robotics_ws/install/lab1_turtle/lib/python3.10/site-packages/lab1_turtle-0.0.0-py3.10.egg-info
+[2.103s] running install_scripts
+[2.141s] Installing circle_driver script to /root/mobile_robotics_ws/install/lab1_turtle/lib/lab1_turtle
+[2.142s] writing list of installed files to '/root/mobile_robotics_ws/build/lab1_turtle/install.log'
+[2.225s] Invoked command in '/root/mobile_robotics_ws/src/lab1_turtle' returned '0': PYTHONPATH=/root/mobile_robotics_ws/build/lab1_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/mobile_robotics_ws/install/lab1_turtle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lab1_turtle build --build-base /root/mobile_robotics_ws/build/lab1_turtle/build install --record /root/mobile_robotics_ws/build/lab1_turtle/install.log --install-scripts $base/lib/lab1_turtle --single-version-externally-managed install_data --force

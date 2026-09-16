@@ -1,0 +1,3 @@
+[console_scripts]
+circle_driver = lab1_turtle.circle_driver:main
+
